@@ -33,7 +33,7 @@ const PageHome = () => {
                 <div>
                     <p className='mx-3 my-3 font-[500]' >2. Nước hoa CODEDECO VIE Merveilleuse</p>
                     <img src={img3I} className='w-[1050px] h-[450px] m-auto' alt="" />
-                    <p className='text-center italic mb-5'>Nước hoa CODEDECO VIE Merveilleuse</p>
+                    <p className='text-center italic'>Nước hoa CODEDECO VIE Merveilleuse</p>
                     <div className=''>
                         <p> Là một dòng nước hoa thuộc nhóm Oriental Floral (Hương hoa cỏ phương đông), Vie Merveilleuse mở ra với hương cam,
                              quýt ở nốt hương đầu như một điểm chấm phá. Sau đó len lỏi sự thơm mát dễ chịu từ hoa nhài và hoa cam xen lẫn 
@@ -46,7 +46,7 @@ const PageHome = () => {
                 <div>
                     <p className='mx-3 my-3 font-[500]' >3. Nước hoa CODEDECO So Sexy By Night</p>
                     <img src={img3II} className='w-[1050px] h-[450px] m-auto' alt="" />
-                    <p className='text-center italic mb-5'>Nước hoa CODEDECO So Sexy By Night</p>
+                    <p className='text-center italic'>Nước hoa CODEDECO So Sexy By Night</p>
                     <div className=''>
                         <p> Làm sao có thể không nhắc đến em So Sexy By Night - một hương nước hoa nồng nàn, đầy gợi cảm và khiến bạn không thể cưỡng lại. 
                             Sự kết hợp tinh tế của những tầng hương tạo nên một vẻ đẹp đầy cá tính và quyến rũ của bạn. Điểm xuyết chút ngọt ngào mềm mại và gợi tình, 
@@ -54,11 +54,10 @@ const PageHome = () => {
                     </div>
                 </div>
             </div>
-            <div className=' mx-9 mb-5 mt-5 leading-8'>
+            <div className=' mx-9 mt-5 leading-8'>
                 <p>Hãy để CODEDECO đồng hành cùng bạn trong mọi buổi hẹn hò, tạo nên những kỷ niệm đẹp đẽ trong tình yêu!  </p>
                 <p>Đặt mua ngay CODEDECO hôm nay để "gây thương nhớ" cho người ấy! </p>
             </div>
-            <p className='mx-9'><b>Xem thêm:</b> <a style={{ textDecorationLine: 'underline', fontSize: 17 }}  href="https://codedeco.art/mach-ban-cach-khac-phuc-nuoc-hoa-co-can/?fbclid=IwZXh0bgNhZW0CMTAAAR11OKH0Dl6YUmXReD2zypKQ6yQpRqVOARHL-ZPoCJ6AAYUzTYZUKdRUFMQ_aem_3OFVpKfups6RtdNVI-XU5A">Mách bạn cách khác phục nước hoa có cặn</a></p>
         </div>
     )
 }

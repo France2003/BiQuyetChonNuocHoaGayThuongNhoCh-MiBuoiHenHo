@@ -54,11 +54,10 @@ const PageHome = () => {
                     </div>
                 </div>
             </div>
-            <div className=' mx-9 mb-5 mt-5 leading-8'>
+            <div className=' mx-9 mt-5 leading-8'>
                 <p>Hãy để CODEDECO đồng hành cùng bạn trong mọi buổi hẹn hò, tạo nên những kỷ niệm đẹp đẽ trong tình yêu!  </p>
                 <p>Đặt mua ngay CODEDECO hôm nay để "gây thương nhớ" cho người ấy! </p>
             </div>
-            <p className='mx-9'><b>Xem thêm:</b> <a style={{ textDecorationLine: 'underline', fontSize: 17 }}  href="https://codedeco.art/mach-ban-cach-khac-phuc-nuoc-hoa-co-can/?fbclid=IwZXh0bgNhZW0CMTAAAR11OKH0Dl6YUmXReD2zypKQ6yQpRqVOARHL-ZPoCJ6AAYUzTYZUKdRUFMQ_aem_3OFVpKfups6RtdNVI-XU5A">Mách bạn cách khác phục nước hoa có cặn</a></p>
         </div>
     )
 }
